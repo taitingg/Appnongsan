@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "904141525428",
+    "project_id": "nongsan-1a6ab",
+    "storage_bucket": "nongsan-1a6ab.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:904141525428:android:945d43adfd5834af0de2e1",
+        "android_client_info": {
+          "package_name": "com.example.android.mp3musicapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9IdV_r5GJ_i9CWAr1UBH_3qJw10FSmC0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:904141525428:android:15070be4ccbe85d90de2e1",
+        "android_client_info": {
+          "package_name": "com.example.appbanhangnongsan"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9IdV_r5GJ_i9CWAr1UBH_3qJw10FSmC0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
